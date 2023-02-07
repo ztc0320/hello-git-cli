@@ -1,0 +1,6 @@
+diff a/file1.txt b/file1.txt	(rejected hunks)
+@@ -3,4 +3,3 @@
+ test
+ second
+ third - my branch
+-fourth - my branch
